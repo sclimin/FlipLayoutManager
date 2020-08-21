@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlipLayoutManager</string>
+    <string name="flip_horizontal">水平翻页</string>
+    <string name="flip_vertical">垂直翻页</string>
+</resources>
